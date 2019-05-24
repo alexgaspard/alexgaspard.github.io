@@ -1,5 +1,0 @@
-= Blog Title
-
-== First Level Heading
-
-This is a test.
